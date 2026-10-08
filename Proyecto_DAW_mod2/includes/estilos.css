@@ -1,0 +1,32 @@
+body {
+  background-color: #f3e9d2;
+  color: #4a3520;
+  font-family: Georgia, 'Times New Roman', serif;
+}
+.navbar-dark.bg-dark, footer.bg-dark { background-color: #6b4f2a !important; }
+.bg-light { background-color: #ead9b6 !important; }
+.card { background: #fdf3dd; border: 1px solid #c9a96a; }
+h1, h2, h4, h5, .card-title { color: #5b3a1e; }
+.btn-primary { background-color: #8b6f3f; border-color: #8b6f3f; }
+.btn-primary:hover { background-color: #6b4f2a; border-color: #6b4f2a; }
+.btn-outline-primary { color: #8b6f3f; border-color: #8b6f3f; }
+.btn-outline-primary:hover { background-color: #8b6f3f; border-color: #8b6f3f; }
+.alert-info { background-color: #e8dcc0; color: #5b3a1e; border-color: #c9a96a; }
+.alert-success { background-color: #d9e2c7; color: #3f4a2a; border-color: #a8b58a; }
+.alert-warning { background-color: #f3dfa8; color: #6b4f1a; border-color: #d8b95c; }
+.alert-primary { background-color: #e5d3b3; color: #5b3a1e; border-color: #c9a96a; }
+.badge.bg-primary { background-color: #8b6f3f !important; }
+.badge.bg-info { background-color: #a3b18a !important; color: #3f4a2a; }
+.badge.bg-success { background-color: #606c38 !important; }
+.badge.bg-secondary { background-color: #b08968 !important; }
+.badge.bg-warning { background-color: #d4a373 !important; color: #4a3520; }
+.table-dark { background-color: #6b4f2a; --bs-table-bg: #6b4f2a; }
+.table-bordered, .table-striped { --bs-table-bg: #fdf3dd; }
+.dropdown-menu { background-color: #fdf3dd; }
+.dropdown-item:hover { background-color: #e8dcc0; }
+.accordion-button { background-color: #f3e9d2; color: #4a3520; }
+.accordion-button:not(.collapsed) { background-color: #e8dcc0; color: #5b3a1e; }
+.accordion-item { border-color: #c9a96a; }
+.list-group-item { background-color: #fdf3dd; color: #4a3520; border-color: #c9a96a; }
+.carousel-item .bg-dark, .carousel-item .bg-primary, .carousel-item .bg-success, .carousel-item .bg-secondary { background-color: #8b6f3f !important; }
+.form-control { background-color: #fdf3dd; border-color: #c9a96a; }
